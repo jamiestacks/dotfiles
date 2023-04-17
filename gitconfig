@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = jagraham04@yahoo.com
+	name = Jamie Graham
